@@ -51,7 +51,7 @@ const ProductCard = ({ item, onPress }) => {
   };
 
   return (
-    <View style={styles.card}>
+    <TouchableOpacity style={styles.card} onPress={onPress}>
       <View style={styles.imageContainer}>
         <Image
           source={require('../assets/Beetroot.webp')}
@@ -96,7 +96,7 @@ const ProductCard = ({ item, onPress }) => {
           </TouchableOpacity>
         </View>
       )}
-    </View>
+    </TouchableOpacity>
   );
 };
 
