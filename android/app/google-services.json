@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059078689222",
+    "project_id": "twinproduct-f2d10",
+    "storage_bucket": "twinproduct-f2d10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059078689222:android:34c1e5a2a77879c36222c7",
+        "android_client_info": {
+          "package_name": "com.twinproduct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059078689222-fr1bie98qkf7lcsqvkqujqma51jeivba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twinproduct",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1059078689222-d7kdogq6ss0lhd0eujbpcm9iq105evoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgvx_BQuV1Znxg-_Ikm7FO0st7ikeyfNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059078689222-d7kdogq6ss0lhd0eujbpcm9iq105evoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
